@@ -1,17 +1,23 @@
-# basketball_points_counter
+# 🏀 Basketball Points Counter
 
-A new Flutter project.
+A sleek and responsive Flutter application designed to track basketball scores for two teams. This project focuses on **State Management**, **Modular UI components**, and a clean user experience.
 
-## Getting Started
+## ✨ Features
+* **Dual Team Tracking:** Independent counters for Team A and Team B.
+* **Dynamic Scoring:** Buttons for +1, +2, and +3 points.
+* **Reset Functionality:** Quickly start a new game with a dedicated reset button.
+* **Modular Codebase:** Clean architecture using custom widgets for buttons and team sections.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+* **Framework:** [Flutter](https://flutter.dev/)
+* **Language:** [Dart](https://dart.dev/)
+* **Platform:** Android / iOS / Web
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Preview
+![App Screenshot](preview.png) 
+*(Don't forget to add a screenshot named preview.png in your project folder!)*
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/dark-zid-code/basketball_points_counter.git](https://github.com/dark-zid-code/basketball_points_counter.git)
