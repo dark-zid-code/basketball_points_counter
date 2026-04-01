@@ -43,3 +43,21 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Windows related
+/windows/
+*.exe
+*.dll
+*.pdb
+
+# Linux related
+/linux/
+*.so
+
+# Web related
+/web/
+.wasm/
+build/web/
+
+# macOS related (Desktop)
+/macos/
